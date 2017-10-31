@@ -1,1 +1,1 @@
-# niosII
+# niosII on DE1-SOC
